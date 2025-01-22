@@ -1,9 +1,9 @@
-#include <iostream>
-using namespace std;
+#include <studio.h>
 
 int main(){
     double num;
-    cin << num;
-    cout << "You entered: " << num;
+    scanf = num;
+    printf("You entered: ", num)
+    
     return 0;
 }
