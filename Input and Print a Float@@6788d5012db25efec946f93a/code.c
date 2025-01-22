@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    double num;
+    float num;
     scanf(num);
     printf("You entered: ", num)
     
